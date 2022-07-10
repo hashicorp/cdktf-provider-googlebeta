@@ -104,7 +104,7 @@
   },
   "cdktf": {
     "provider": {
-      "name": "registry.terraform.io/hashicorp/google-beta",
+      "name": "registry.terraform.io/providers/hashicorp/google-beta",
       "version": "4.27.0"
     }
   },
